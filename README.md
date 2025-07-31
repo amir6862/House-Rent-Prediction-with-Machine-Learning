@@ -3,12 +3,12 @@ The rent of a house depends on a lot of factors. With appropriate data and Machi
 
 # House Rent Prediction
 
-The rent of a housing property depends on a lot of factors like:
+    The rent of a housing property depends on a lot of factors like:
 
-   number of bedrooms, hall, and kitchen
-   size of the property
-   the floor of the house
-   area type
-   area locality
-   City
-   furnishing status of the house
+     number of bedrooms, hall, and kitchen
+    size of the property
+    the floor of the house
+    area type
+    area locality
+    City
+    furnishing status of the house
