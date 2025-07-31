@@ -5,10 +5,10 @@ The rent of a house depends on a lot of factors. With appropriate data and Machi
 
 The rent of a housing property depends on a lot of factors like:
 
-   1 number of bedrooms, hall, and kitchen
-    2 size of the property
-   3 the floor of the house
-   4 area type
-   5 area locality
-   6 City
-   7 furnishing status of the house
+   number of bedrooms, hall, and kitchen
+   size of the property
+   the floor of the house
+   area type
+   area locality
+   City
+   furnishing status of the house
